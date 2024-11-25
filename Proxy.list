@@ -1,5 +1,11 @@
 # 代理补充列表
 
+# 域名匹配
+DOMAIN,metadata.plex.tv
+DOMAIN,tmdb.plex.tv
+DOMAIN,artworks.plex.tv
+DOMAIN,agents.plex.tv
+
 # 域名后缀匹配
 DOMAIN-SUFFIX,blogspot.com
 
