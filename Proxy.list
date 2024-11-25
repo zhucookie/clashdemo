@@ -1,10 +1,6 @@
 # 代理补充列表
 
 # 域名匹配
-DOMAIN,metadata.plex.tv
-DOMAIN,tmdb.plex.tv
-DOMAIN,artworks.plex.tv
-DOMAIN,agents.plex.tv
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,blogspot.com
@@ -13,6 +9,7 @@ DOMAIN-SUFFIX,blogspot.com
 DOMAIN-KEYWORD,1e100
 DOMAIN-KEYWORD,browserleaks
 DOMAIN-KEYWORD,weather
+DOMAIN-KEYWORD,plex
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
