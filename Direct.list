@@ -8,10 +8,15 @@ DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
 DOMAIN-SUFFIX,plex.direct
+DOMAIN-SUFFIX,fxg.jinritemai.com
+DOMAIN-SUFFIX,douyin.com
+DOMAIN-SUFFIX,jinritemai.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,m-team
+DOMAIN-KEYWORD,jinritemai
+DOMAIN-KEYWORD,douyin
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
