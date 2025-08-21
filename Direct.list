@@ -11,12 +11,15 @@ DOMAIN-SUFFIX,plex.direct
 DOMAIN-SUFFIX,fxg.jinritemai.com
 DOMAIN-SUFFIX,douyin.com
 DOMAIN-SUFFIX,jinritemai.com
+DOMAIN-SUFFIX,adobe.com
+DOMAIN-SUFFIX,adobe.io
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,m-team
 DOMAIN-KEYWORD,jinritemai
 DOMAIN-KEYWORD,douyin
+DOMAIN-KEYWORD,adobe
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
