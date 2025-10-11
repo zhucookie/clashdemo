@@ -13,6 +13,10 @@ DOMAIN-SUFFIX,douyin.com
 DOMAIN-SUFFIX,jinritemai.com
 DOMAIN-SUFFIX,adobe.com
 DOMAIN-SUFFIX,adobe.io
+DOMAIN-SUFFIX,msftconnecttest.com
+DOMAIN-SUFFIX,msftncsi.com
+
+
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
