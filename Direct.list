@@ -24,6 +24,8 @@ DOMAIN-KEYWORD,m-team
 DOMAIN-KEYWORD,jinritemai
 DOMAIN-KEYWORD,douyin
 DOMAIN-KEYWORD,adobe
+DOMAIN-KEYWORD,msftconnecttest
+DOMAIN-KEYWORD,msftncsi
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
